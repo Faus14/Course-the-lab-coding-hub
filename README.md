@@ -9,7 +9,7 @@ Repositorio utilizado para el curso The-lab-coding-hub
     ```
 2. **Navega al directorio del proyecto**:
     ```bash
-    cd adivina-numero
+    cd Course-the-lab-coding-hub/adivina-numero
     ```
 3. **Instala las dependencias**:
     ```bash
