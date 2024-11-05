@@ -1,21 +1,23 @@
-# Course-the-lab-coding-hub
-Repositorio utilizado para el curso The-lab-coding-hub
+## Ejercicio 2: Clase "Pila" (Stack)
 
-# Pasos para Iniciar el Juego "Adivina el Número"
+### Pasos para Iniciar el Ejercicio de la Pila
 
-1. **Clona el repositorio**:
+1. **Cambia a la rama `pila`** (donde se encuentra el ejercicio de la pila):
     ```bash
-    git clone https://github.com/Faus14/Course-the-lab-coding-hub.git
+    git checkout pila
     ```
-2. **Navega al directorio del proyecto**:
+
+2. **Navega al directorio del proyecto** (si no estás ya en él):
     ```bash
-    cd Course-the-lab-coding-hub/adivina-numero
+    cd Course-the-lab-coding-hub
     ```
-3. **Instala las dependencias**:
+
+3. **Instala las dependencias** (si no las has instalado anteriormente):
     ```bash
     npm install
     ```
-4. **Inicia el juego**:
+
+4. **Compila y ejecuta el código TypeScript**:
     ```bash
     npm start
     ```
